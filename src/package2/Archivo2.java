@@ -5,6 +5,9 @@ public class Archivo2 {
 		// TODO Auto-generated method stub
 		System.out.print("");
 		int tonto=5;
+		
+		int nw=5;
+		int cambio =5;
 	}
 
 }
