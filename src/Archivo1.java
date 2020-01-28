@@ -7,6 +7,7 @@ public class Archivo1 {
 		System.out.println("");
 		int variable=5;
 		int soyuncambio=10;
+		int CAMBIO NUEVO=99999;
 	}
 
 }
