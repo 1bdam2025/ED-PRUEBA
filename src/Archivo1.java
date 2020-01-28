@@ -5,6 +5,8 @@ public class Archivo1 {
 		// TODO Auto-generated method stub
 		System.out.print("");
 		System.out.println("");
+		int variable=5;
+		int soyuncambio=10;
 	}
 
 }
